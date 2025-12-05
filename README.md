@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>I'm a</strong><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FFA07A&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer" alt="Typing Animation" />
 </p>
 
 
