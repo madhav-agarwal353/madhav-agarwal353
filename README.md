@@ -4,8 +4,9 @@
 
 <p align="center">
   <strong>I'm a</strong><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF69B4&width=500&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=FF69B4&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Java+Developer;Competitive+Programmer" alt="Typing Animation" />
 </p>
+
 
 # 💫 About Me:
 ✨ About Me<br><br>👨‍💻 Name: Madhav Agarwal<br>📍 From: India<br>🛠️ Domains: Java Development • Full Stack Development<br>🚀 Focus: Building scalable Java apps, modern frontends, and seamless full-stack solutions.<br>📝 What I Do: Write clean, maintainable code, turn ideas into reliable features, and simplify complex problems.<br>🌐 Interests: UI/UX patterns, system design fundamentals, performance optimization, and exploring developer tools that make life easier.
