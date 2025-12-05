@@ -8,8 +8,21 @@
 </p>
 
 
-# 💫 About Me:
-✨ About Me<br><br>👨‍💻 Name: Madhav Agarwal<br>📍 From: India<br>🛠️ Domains: Java Development • Full Stack Development<br>🚀 Focus: Building scalable Java apps, modern frontends, and seamless full-stack solutions.<br>📝 What I Do: Write clean, maintainable code, turn ideas into reliable features, and simplify complex problems.<br>🌐 Interests: UI/UX patterns, system design fundamentals, performance optimization, and exploring developer tools that make life easier.
+# ✨About Me:
+## 👨‍💻 Madhav Agarwal
+**Full Stack Developer | Java Developer**<br>
+📍 India
+### 🚀 Focus
+Scalable Java applications, modern frontends, and seamless full-stack workflows.
+### 🛠️ Strengths
+- Writing clean, maintainable, and reliable code
+- Turning ideas into production-ready features
+- Simplifying complex technical problems
+### 🌐 Interests
+UI/UX patterns, backend architecture, system design fundamentals, performance optimization, and exploring developer tools that make development smoother.
+
+
+
 
 
 # 💻 Tech Stack:
